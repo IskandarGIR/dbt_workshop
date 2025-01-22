@@ -8,7 +8,7 @@
 
 # Testing
 
-  > Adding dbt run, test, SQL queries
+  > Adding dbt run, test, SQL queries.
 
 
 
